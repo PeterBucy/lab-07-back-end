@@ -1,0 +1,29 @@
+{
+  "name": "lab-07-back-end",
+  "version": "1.0.0",
+  "description": "api",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "dotenv": "^6.2.0",
+    "node.js": "^0.0.0",
+    "nodemon": "^1.18.9",
+    "superagent": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterBucy/lab-07-back-end.git"
+  },
+  "author": "PeterBucy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterBucy/lab-07-back-end/issues"
+  },
+  "homepage": "https://github.com/PeterBucy/lab-07-back-end#readme"
+}
